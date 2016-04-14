@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lichenographiau00achagoog_0019.png"; bbox 0 0 4466 5536; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 822 1897 1600 1974">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 822 1897 1600 1974">
+     <span class='ocr_line' id='line_1_1' title="bbox 822 1897 1600 1974; baseline -0.006 -12"><span class='ocrx_word' id='word_1_1' title='bbox 822 1899 983 1974; x_wconf 59' lang='lat' dir='ltr'><strong>Nunquam</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1009 1897 1092 1958; x_wconf 66' lang='lat' dir='ltr'><strong>uliud</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1112 1899 1224 1960; x_wconf 68' lang='lat' dir='ltr'><strong>Naum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1248 1899 1328 1956; x_wconf 65' lang='lat' dir='ltr'>uliud</span> <span class='ocrx_word' id='word_1_5' title='bbox 1352 1897 1496 1974; x_wconf 72' lang='lat' dir='ltr'>snpientia</span> <span class='ocrx_word' id='word_1_6' title='bbox 1519 1899 1600 1958; x_wconf 74' lang='lat' dir='ltr'><strong>dicit.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1475 2087 1658 2130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1475 2087 1658 2130">
+     <span class='ocr_line' id='line_1_2' title="bbox 1475 2087 1658 2130; baseline -0.011 0"><span class='ocrx_word' id='word_1_7' title='bbox 1475 2087 1658 2130; x_wconf 75' lang='lat' dir='ltr'><strong>wvmm·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2238 5536">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2238 5536">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2238 5536; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2238 5536; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

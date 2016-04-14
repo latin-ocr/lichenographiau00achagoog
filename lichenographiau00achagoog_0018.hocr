@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lichenographiau00achagoog_0018.png"; bbox 0 0 4466 5536; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 116 1593 1795 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 116 1593 1795 2064">
+     <span class='ocr_line' id='line_1_1' title="bbox 1754 1593 1795 1700; baseline 0 -8"><span class='ocrx_word' id='word_1_1' title='bbox 1754 1593 1795 1700; x_wconf 77' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 116 1760 1735 2034; baseline 0.022 -94"><span class='ocrx_word' id='word_1_2' title='bbox 116 1933 127 1940; x_wconf 82' lang='grc'>,</span> <span class='ocrx_word' id='word_1_3' title='bbox 269 1760 1735 2034; x_wconf 74' lang='lat' dir='ltr'>[leHENOGRAPHIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 422 2265 1368 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 422 2265 1368 2368">
+     <span class='ocr_line' id='line_1_3' title="bbox 422 2265 1368 2368; baseline 0.002 -5"><span class='ocrx_word' id='word_1_4' title='bbox 422 2275 428 2286; x_wconf 85' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_5' title='bbox 625 2265 1368 2368; x_wconf 69' lang='lat' dir='ltr'>UNIVERSALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2238 5536">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2238 5536">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2238 5536; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2238 5536; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
